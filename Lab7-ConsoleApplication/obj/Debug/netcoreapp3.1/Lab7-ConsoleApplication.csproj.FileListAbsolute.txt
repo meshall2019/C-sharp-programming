@@ -1,0 +1,11 @@
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\bin\Debug\netcoreapp3.1\Lab7-ConsoleApplication.exe
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\bin\Debug\netcoreapp3.1\Lab7-ConsoleApplication.deps.json
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\bin\Debug\netcoreapp3.1\Lab7-ConsoleApplication.runtimeconfig.json
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\bin\Debug\netcoreapp3.1\Lab7-ConsoleApplication.runtimeconfig.dev.json
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\bin\Debug\netcoreapp3.1\Lab7-ConsoleApplication.dll
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\bin\Debug\netcoreapp3.1\Lab7-ConsoleApplication.pdb
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\obj\Debug\netcoreapp3.1\Lab7-ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\obj\Debug\netcoreapp3.1\Lab7-ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\obj\Debug\netcoreapp3.1\Lab7-ConsoleApplication.AssemblyInfo.cs
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\obj\Debug\netcoreapp3.1\Lab7-ConsoleApplication.dll
+C:\Users\مشعل\Desktop\learnC#\Lab7-ConsoleApplication\obj\Debug\netcoreapp3.1\Lab7-ConsoleApplication.pdb

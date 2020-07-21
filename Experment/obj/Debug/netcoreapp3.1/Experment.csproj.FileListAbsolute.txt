@@ -1,0 +1,13 @@
+C:\Users\مشعل\Desktop\learnC#\Experment\bin\Debug\netcoreapp3.1\Experment.exe
+C:\Users\مشعل\Desktop\learnC#\Experment\bin\Debug\netcoreapp3.1\Experment.deps.json
+C:\Users\مشعل\Desktop\learnC#\Experment\bin\Debug\netcoreapp3.1\Experment.runtimeconfig.json
+C:\Users\مشعل\Desktop\learnC#\Experment\bin\Debug\netcoreapp3.1\Experment.runtimeconfig.dev.json
+C:\Users\مشعل\Desktop\learnC#\Experment\bin\Debug\netcoreapp3.1\Experment.dll
+C:\Users\مشعل\Desktop\learnC#\Experment\bin\Debug\netcoreapp3.1\Experment.pdb
+C:\Users\مشعل\Desktop\learnC#\Experment\obj\Debug\netcoreapp3.1\Experment.csprojAssemblyReference.cache
+C:\Users\مشعل\Desktop\learnC#\Experment\obj\Debug\netcoreapp3.1\Experment.csproj.CoreCompileInputs.cache
+C:\Users\مشعل\Desktop\learnC#\Experment\obj\Debug\netcoreapp3.1\Experment.AssemblyInfoInputs.cache
+C:\Users\مشعل\Desktop\learnC#\Experment\obj\Debug\netcoreapp3.1\Experment.AssemblyInfo.cs
+C:\Users\مشعل\Desktop\learnC#\Experment\obj\Debug\netcoreapp3.1\Experment.dll
+C:\Users\مشعل\Desktop\learnC#\Experment\obj\Debug\netcoreapp3.1\Experment.pdb
+C:\Users\مشعل\Desktop\learnC#\Experment\obj\Debug\netcoreapp3.1\Experment.genruntimeconfig.cache

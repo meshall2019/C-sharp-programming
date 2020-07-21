@@ -1,0 +1,11 @@
+C:\Users\مشعل\Desktop\learnC#\licince 20\bin\Debug\netcoreapp3.1\licince 20.exe
+C:\Users\مشعل\Desktop\learnC#\licince 20\bin\Debug\netcoreapp3.1\licince 20.deps.json
+C:\Users\مشعل\Desktop\learnC#\licince 20\bin\Debug\netcoreapp3.1\licince 20.runtimeconfig.json
+C:\Users\مشعل\Desktop\learnC#\licince 20\bin\Debug\netcoreapp3.1\licince 20.runtimeconfig.dev.json
+C:\Users\مشعل\Desktop\learnC#\licince 20\bin\Debug\netcoreapp3.1\licince 20.dll
+C:\Users\مشعل\Desktop\learnC#\licince 20\bin\Debug\netcoreapp3.1\licince 20.pdb
+C:\Users\مشعل\Desktop\learnC#\licince 20\obj\Debug\netcoreapp3.1\licince 20.csprojAssemblyReference.cache
+C:\Users\مشعل\Desktop\learnC#\licince 20\obj\Debug\netcoreapp3.1\licince 20.AssemblyInfoInputs.cache
+C:\Users\مشعل\Desktop\learnC#\licince 20\obj\Debug\netcoreapp3.1\licince 20.AssemblyInfo.cs
+C:\Users\مشعل\Desktop\learnC#\licince 20\obj\Debug\netcoreapp3.1\licince 20.dll
+C:\Users\مشعل\Desktop\learnC#\licince 20\obj\Debug\netcoreapp3.1\licince 20.pdb
