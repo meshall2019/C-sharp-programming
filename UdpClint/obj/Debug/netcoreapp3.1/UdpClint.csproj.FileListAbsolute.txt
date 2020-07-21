@@ -1,0 +1,12 @@
+C:\Users\مشعل\Desktop\learnC#\UdpClint\bin\Debug\netcoreapp3.1\UdpClint.exe
+C:\Users\مشعل\Desktop\learnC#\UdpClint\bin\Debug\netcoreapp3.1\UdpClint.deps.json
+C:\Users\مشعل\Desktop\learnC#\UdpClint\bin\Debug\netcoreapp3.1\UdpClint.runtimeconfig.json
+C:\Users\مشعل\Desktop\learnC#\UdpClint\bin\Debug\netcoreapp3.1\UdpClint.runtimeconfig.dev.json
+C:\Users\مشعل\Desktop\learnC#\UdpClint\bin\Debug\netcoreapp3.1\UdpClint.dll
+C:\Users\مشعل\Desktop\learnC#\UdpClint\bin\Debug\netcoreapp3.1\UdpClint.pdb
+C:\Users\مشعل\Desktop\learnC#\UdpClint\obj\Debug\netcoreapp3.1\UdpClint.csproj.CoreCompileInputs.cache
+C:\Users\مشعل\Desktop\learnC#\UdpClint\obj\Debug\netcoreapp3.1\UdpClint.AssemblyInfoInputs.cache
+C:\Users\مشعل\Desktop\learnC#\UdpClint\obj\Debug\netcoreapp3.1\UdpClint.AssemblyInfo.cs
+C:\Users\مشعل\Desktop\learnC#\UdpClint\obj\Debug\netcoreapp3.1\UdpClint.dll
+C:\Users\مشعل\Desktop\learnC#\UdpClint\obj\Debug\netcoreapp3.1\UdpClint.pdb
+C:\Users\مشعل\Desktop\learnC#\UdpClint\obj\Debug\netcoreapp3.1\UdpClint.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\مشعل\Desktop\learnC#\UPDServer\bin\Debug\netcoreapp3.1\UPDServer.exe
+C:\Users\مشعل\Desktop\learnC#\UPDServer\bin\Debug\netcoreapp3.1\UPDServer.deps.json
+C:\Users\مشعل\Desktop\learnC#\UPDServer\bin\Debug\netcoreapp3.1\UPDServer.runtimeconfig.json
+C:\Users\مشعل\Desktop\learnC#\UPDServer\bin\Debug\netcoreapp3.1\UPDServer.runtimeconfig.dev.json
+C:\Users\مشعل\Desktop\learnC#\UPDServer\bin\Debug\netcoreapp3.1\UPDServer.dll
+C:\Users\مشعل\Desktop\learnC#\UPDServer\bin\Debug\netcoreapp3.1\UPDServer.pdb
+C:\Users\مشعل\Desktop\learnC#\UPDServer\obj\Debug\netcoreapp3.1\UPDServer.csprojAssemblyReference.cache
+C:\Users\مشعل\Desktop\learnC#\UPDServer\obj\Debug\netcoreapp3.1\UPDServer.csproj.CoreCompileInputs.cache
+C:\Users\مشعل\Desktop\learnC#\UPDServer\obj\Debug\netcoreapp3.1\UPDServer.AssemblyInfoInputs.cache
+C:\Users\مشعل\Desktop\learnC#\UPDServer\obj\Debug\netcoreapp3.1\UPDServer.AssemblyInfo.cs
+C:\Users\مشعل\Desktop\learnC#\UPDServer\obj\Debug\netcoreapp3.1\UPDServer.dll
+C:\Users\مشعل\Desktop\learnC#\UPDServer\obj\Debug\netcoreapp3.1\UPDServer.pdb
+C:\Users\مشعل\Desktop\learnC#\UPDServer\obj\Debug\netcoreapp3.1\UPDServer.genruntimeconfig.cache
