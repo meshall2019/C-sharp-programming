@@ -1,0 +1,11 @@
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\bin\Debug\AddBenfits.exe.config
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\bin\Debug\AddBenfits.exe
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\bin\Debug\AddBenfits.pdb
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\obj\Debug\AddBenfits.csprojAssemblyReference.cache
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\obj\Debug\AddBenfits.Form1.resources
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\obj\Debug\AddBenfits.Properties.Resources.resources
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\obj\Debug\AddBenfits.csproj.GenerateResource.cache
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\obj\Debug\AddBenfits.csproj.CoreCompileInputs.cache
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\obj\Debug\AddBenfits.exe
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\obj\Debug\AddBenfits.pdb
+C:\Users\مشعل\Desktop\learnC#\AddBenfits\bin\Debug\Database2.accdb

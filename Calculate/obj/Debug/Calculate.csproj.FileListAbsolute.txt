@@ -1,0 +1,10 @@
+C:\Users\مشعل\Desktop\learnC#\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\مشعل\Desktop\learnC#\Calculate\bin\Debug\Calculate.exe
+C:\Users\مشعل\Desktop\learnC#\Calculate\bin\Debug\Calculate.pdb
+C:\Users\مشعل\Desktop\learnC#\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\مشعل\Desktop\learnC#\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\مشعل\Desktop\learnC#\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\مشعل\Desktop\learnC#\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\مشعل\Desktop\learnC#\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\مشعل\Desktop\learnC#\Calculate\obj\Debug\Calculate.exe
+C:\Users\مشعل\Desktop\learnC#\Calculate\obj\Debug\Calculate.pdb

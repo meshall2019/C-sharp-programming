@@ -1,0 +1,13 @@
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\bin\Debug\netcoreapp3.1\Clint_Server.exe
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\bin\Debug\netcoreapp3.1\Clint_Server.deps.json
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\bin\Debug\netcoreapp3.1\Clint_Server.runtimeconfig.json
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\bin\Debug\netcoreapp3.1\Clint_Server.runtimeconfig.dev.json
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\bin\Debug\netcoreapp3.1\Clint_Server.dll
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\bin\Debug\netcoreapp3.1\Clint_Server.pdb
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\obj\Debug\netcoreapp3.1\Clint_Server.csprojAssemblyReference.cache
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\obj\Debug\netcoreapp3.1\Clint_Server.csproj.CoreCompileInputs.cache
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\obj\Debug\netcoreapp3.1\Clint_Server.AssemblyInfoInputs.cache
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\obj\Debug\netcoreapp3.1\Clint_Server.AssemblyInfo.cs
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\obj\Debug\netcoreapp3.1\Clint_Server.dll
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\obj\Debug\netcoreapp3.1\Clint_Server.pdb
+C:\Users\مشعل\Desktop\learnC#\Clint_Server\obj\Debug\netcoreapp3.1\Clint_Server.genruntimeconfig.cache
