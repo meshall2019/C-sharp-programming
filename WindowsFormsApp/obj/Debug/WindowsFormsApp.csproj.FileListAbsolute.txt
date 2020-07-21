@@ -1,0 +1,9 @@
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

@@ -1,0 +1,9 @@
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calculater.resources
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\مشعل\Desktop\learnC#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
